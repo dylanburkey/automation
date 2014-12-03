@@ -1,0 +1,14 @@
+{
+  "name": "sassination",
+  "homepage": "https://github.com/dylanburkey/sassination",
+  "_release": "14ca26cd07",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "14ca26cd0754cec0df8662c1b51d84d6924e994d"
+  },
+  "_source": "https://github.com/dylanburkey/sassination.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/dylanburkey/sassination.git",
+  "_direct": true
+}
